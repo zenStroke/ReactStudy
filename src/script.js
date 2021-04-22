@@ -3,10 +3,10 @@ class HelloMessage extends React.Component {
     return React.createElement(
       "div",
       null,
-      "Hello ",
+      "今日は",
       this.props.name
     );
   }
 }
 
-ReactDOM.render(React.createElement(HelloMessage, { name: "Taylor" }), document.getElementById('hello-example'));
+ReactDOM.render(React.createElement(HelloMessage, { name: "Kazuya" }), document.getElementById('hello-example'));
