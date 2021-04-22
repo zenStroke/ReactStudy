@@ -1,2 +1,2 @@
 # ReactStudy
-reactの勉強のため
+Reactの勉強のため
